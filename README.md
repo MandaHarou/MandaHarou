@@ -1,27 +1,68 @@
 <h1 align="center">Salut 👋, moi c'est Manda Aroniaina</h1>
-<h3 align="center">Étudiant en IA, backend Node.js & passionné de réseau</h3>
+<h3 align="center">🧠 IA | 💻 Backend Node.js | 🌐 Passionné de Réseaux | Blockchaine </h3>
 
 ---
 
-🧠 Actuellement étudiant en L2 informatique  
-👨‍💻 Je travaille sur des projets en :
+🧠 Étudiant en L2 Informatique  
+🔬 Spécialisé en :
 - Node.js / Express
 - MongoDB
 - WebSocket
-- Et je suis passionné par les architectures réseau locales 🔌
+- C++ (avec Crow Framework)
+- Reactjs et tailwindcss
+- Base de l' IA et Machine Learning
+- Réseaux locaux & systèmes Linux
 
-🔧 Stack actuelle :
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,c,cpp,linux,git,github" />
-</p>
+## 🚀 Projets en vedette
+### 🔗 Communication réseau locale (Node.js + WebSocket)
+### API rest avec C++ crow
 
-📡 Projet en cours :
-> Une application de streaming de films malgaches, avec une interface moderne (Dart & Flutter)
+> Application de communication en réseau local avec transfert de messages, fichiers, vidéos entre utilisateurs (sans Internet)
+
+![GIF démonstration projet 1](https://github.com/MandaHarou/TUTORED_BACKEND.git) 
 
 ---
 
-### 📈 Mes stats GitHub
+### ⚙️ Gestion de personnel en C++ (Crow + MongoDB)
+
+> Système de gestion d'utilisateurs avec base de données MongoDB, REST API et UI basique
+
+![GIF démonstration projet 2](https://github.com/MandaHarou/Server-Crow-.git) 
+
+---
+
+## 🧰 Stack actuelle
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,nodejs,express,mongodb,react,tensorflow,linux,git,github" />
+</p>
+
+---
+
+## 📈 Mes stats GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MandaHarou&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MandaHarou&layout=compact&t
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MandaHarou&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📬 Me contacter
+
+<p align="center">
+  <a href="mailto:aroniainamanda@gmail.com"><img src="https://img.shields.io/badge/Email-aroniainamanda@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/manda-aroniaina" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Manda_Aroniaina-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/MandaHarou" target="_blank"><img src="https://img.shields.io/badge/GitHub-MandaHarou-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+### ✨ Ce qui me définit :
+> "Passionné, prêt à relever tous les défis, déterminé à devenir un stratège complet en cybersécurité, backend, et IA."
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MandaHarou/MandaHarou/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
