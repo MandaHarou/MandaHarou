@@ -1,8 +1,6 @@
 <h1 align="center">Salut 👋, moi c'est Manda Aroniaina</h1>
 <h3 align="center">🧠 IA | 💻 Backend Node.js | 🌐 Passionné de Réseaux | Blockchaine </h3>
 
----
-
 🧠 Étudiant en L2 Informatique  
 🔬 Spécialisé en :
 - Node.js / Express
