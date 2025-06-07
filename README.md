@@ -12,7 +12,7 @@
 
 🔧 Stack actuelle :
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,nodejs,express,mongodb,react,c,c++,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=cpp,nodejs,express,mongodb,react,c,cpp,linux,git,github" />
 </p>
 
 📡 Projet en cours :
