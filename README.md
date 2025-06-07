@@ -1,19 +1,22 @@
-<h1 align="center">Salut 👋, moi c'est Diego</h1>
-<h3 align="center">Étudiant en Inforamtique  parcours Genie logiciel, backend Node.js & passionné de l'argorithme</h3>
+<h1 align="center">Salut 👋, moi c'est Manda Aroniaina</h1>
+<h3 align="center">Étudiant en IA, backend Node.js & passionné de réseau</h3>
 
 ---
 
-🧠 Je suis actuellement étudiant en L2 informatique,  
+🧠 Actuellement étudiant en L2 informatique  
 👨‍💻 Je travaille sur des projets en :
 - Node.js / Express
 - MongoDB
 - WebSocket
+- Et je suis passionné par les architectures réseau locales 🔌
 
+🔧 Stack actuelle :
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,nodejs,express,mongodb,react,tensorflow,linux,git,github" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,c,c++,reactjs,linux,git,github" />
-
-📡 Mon projet en cours :
-> 💬 Une app de communication locale (chat, fichier, vidéo) via réseau local, en Flutter + Node.js
+📡 Projet en cours :
+> Une application de streaming de films malgaches, avec une interface moderne (Dart & Flutter)
 
 ---
 
@@ -21,15 +24,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MandaHarou&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MandaHarou&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### ✨ Un mot qui me décrit :
-> “Stratégique, calme, structuré, passionné par la tech et la maîtrise de soi.”  
-
----
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MandaHarou/MandaHarou/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MandaHarou&layout=compact&t
