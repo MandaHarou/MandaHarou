@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, moi c'est Diego</h1>
-<h3 align="center">Étudiant en IA, backend Node.js & passionné de réseau</h3>
+<h3 align="center">Étudiant en Inforamtique  parcours Genie logiciel, backend Node.js & passionné de l'argorithme</h3>
 
 ---
 
@@ -8,11 +8,9 @@
 - Node.js / Express
 - MongoDB
 - WebSocket
-- Machine Learning avec TensorFlow
-- Systèmes Linux (Hyprland, GNOME)
 
-🔧 Stack actuelle :
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,dart,C,C++,Reactjs,linux,git,github" />
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,dart,c,c++,reactjs,linux,git,github" />
 
 📡 Mon projet en cours :
 > 💬 Une app de communication locale (chat, fichier, vidéo) via réseau local, en Flutter + Node.js
