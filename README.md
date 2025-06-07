@@ -12,9 +12,7 @@
 - Systèmes Linux (Hyprland, GNOME)
 
 🔧 Stack actuelle :
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,dart,flutter,tensorflow,linux,git,github" />
-
-🛠️ J’ai aussi des bases solides en C/C++ et Java.
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,dart,C,C++,Reactjs,linux,git,github" />
 
 📡 Mon projet en cours :
 > 💬 Une app de communication locale (chat, fichier, vidéo) via réseau local, en Flutter + Node.js
