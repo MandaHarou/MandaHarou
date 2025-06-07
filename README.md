@@ -57,7 +57,7 @@
 ---
 
 ### ✨ Ce qui me définit :
-> "Passionné, prêt à relever tous les défis, déterminé à devenir un stratège complet en cybersécurité, backend, et IA."
+> "Passionné, prêt à relever tous les défis, déterminé à devenir un stratège complet."
 
 ---
 
