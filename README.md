@@ -10,7 +10,7 @@
 - WebSocket
 
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,dart,c,c++,reactjs,linux,git,github" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,c,c++,reactjs,linux,git,github" />
 
 📡 Mon projet en cours :
 > 💬 Une app de communication locale (chat, fichier, vidéo) via réseau local, en Flutter + Node.js
