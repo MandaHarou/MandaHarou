@@ -1,16 +1,6 @@
 <h1 align="center">Salut 👋, moi c'est Manda Aroniaina</h1>
 <h3 align="center">🧠 IA | 💻 Backend Node.js | 🌐 Passionné de Réseaux | Blockchaine </h3>
 
-🧠 Étudiant en L2 Informatique  
-🔬 Spécialisé en :
-- Node.js / Express
-- MongoDB
-- WebSocket
-- C++ (avec Crow Framework)
-- Reactjs et tailwindcss
-- Base de l' IA et Machine Learning
-- Réseaux locaux & systèmes Linux
-
 ## 🚀 Projets en vedette
 ### 🔗 Communication réseau locale (Node.js + WebSocket)
 ### API rest avec C++ crow
