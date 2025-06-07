@@ -22,7 +22,7 @@
 ## 🧰 Stack actuelle
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,nodejs,express,mongodb,react,tensorflow,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=cpp,nodejs,express,mongodb,react,tensorflow,linux,zsh,git,github" />
 </p>
 
 ---
