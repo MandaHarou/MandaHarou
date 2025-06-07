@@ -17,7 +17,7 @@
 
 > Application de communication en réseau local avec transfert de messages, fichiers, vidéos entre utilisateurs (sans Internet)
 
-![GIF démonstration projet 1](https://github.com/MandaHarou/TUTORED_BACKEND.git) 
+![Allez voire le projet](https://github.com/MandaHarou/TUTORED_BACKEND.git) 
 
 ---
 
@@ -25,7 +25,7 @@
 
 > Système de gestion d'utilisateurs avec base de données MongoDB, REST API et UI basique
 
-![GIF démonstration projet 2](https://github.com/MandaHarou/Server-Crow-.git) 
+![Allez voire le projet](https://github.com/MandaHarou/Server-Crow-.git) 
 
 ---
 
