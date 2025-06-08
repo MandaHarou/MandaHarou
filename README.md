@@ -4,6 +4,8 @@
 ## 🚀 Projets en vedette
 ### 🔗 Communication réseau locale (Node.js + WebSocket)
 ### API rest avec C++ crow
+---
+### 🔗 Communication réseau locale (Node.js + WebSocket)
 
 > Application de communication en réseau local avec transfert de messages, fichiers, vidéos entre utilisateurs (sans Internet)
 
