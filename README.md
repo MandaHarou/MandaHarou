@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://lien-de-ton-image-hébergée-ici.png" alt="Bannière comics style Avengers" width="100%" />
+</p>
 <h1 align="center">Salut 👋, moi c'est Manda Aroniaina</h1>
 <h3 align="center">🧠 IA | 💻 Backend Node.js | 🌐 Passionné de Réseaux | Blockchaine </h3>
 
@@ -46,7 +49,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MandaHarou&layout=compact&theme=tokyonight" />
 </p>
 
----
+## OS & Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Debian-D70A53?logo=debian&logoColor=white" alt="Debian" />
+</p>
 
 ## 📬 Me contacter
 
@@ -58,7 +66,7 @@
 ---
 
 ### ✨ Ce qui me définit :
-> "Passionné, prêt à relever tous les défis, déterminé à devenir un stratège complet."
+  <<Passionné, prêt à relever tous les défis, déterminé à devenir un stratège complet.>>
 
 ---
 
