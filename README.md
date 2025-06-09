@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://https://images7.alphacoders.com/904/904934.jpg" alt="Bannière comics style Avengers" width="100%" />
-</p>
 <h1 align="center">Salut 👋, moi c'est Manda Aroniaina</h1>
 <h3 align="center">🧠 IA | 💻 Backend Node.js | 🌐 Passionné de Réseaux | Blockchaine </h3>
 
