@@ -1,6 +1,6 @@
 <h1 align="center">Salut 👋, moi c'est Manda Aroniaina</h1>
 <h3 align="center">🧠 IA | 💻 Backend Node.js | 🌐 Passionné de Réseaux | Blockchaine </h3>
----
+
 <p align="center">
   <a href="https://gitquest.dev/player/MandaHarou" target="_blank">
     <picture>
@@ -9,7 +9,6 @@
     </picture>
   </a>
 </p>
----
 
 ## 🚀 Projets en vedette
 ### Communication réseau locale (Node.js + WebSocket)
