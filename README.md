@@ -2,7 +2,7 @@
 <h3 align="center">🧠 IA | 💻 Backend Node.js | 🌐 Passionné de Réseaux | Blockchaine </h3>
 
 ## 🚀 Projets en vedette
-### 🔗 Communication réseau locale (Node.js + WebSocket)
+### Communication réseau locale (Node.js + WebSocket)
 ### API rest avec C++ crow
 ---
 ### 🔗 Communication réseau locale (Node.js + WebSocket)
