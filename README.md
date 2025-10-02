@@ -1,5 +1,4 @@
 <h1 align="center">Salut 👋, moi c'est Manda Aroniaina</h1>
-<h3 align="center">🧠 IA | 💻 Backend Node.js | 🌐 Passionné de Réseaux | Blockchaine </h3>
 
 <p align="center">
   <a href="https://gitquest.dev/player/MandaHarou" target="_blank">
@@ -33,7 +32,7 @@
 ## 🧰 Stack actuelle
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,nodejs,express,mongodb,react,tensorflow,linux,bash,git,github" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,bash,git,github,sql" />
 </p>
 
 ---
@@ -67,6 +66,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MandaHarou/MandaHarou/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+
