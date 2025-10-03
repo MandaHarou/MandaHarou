@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋, moi c'est Manda Aroniaina</h1>
+<h1 align="center">Salut 👋, moi c'est Manda Aroniaina, ou MandaHarou</h1>
 
 <p align="center">
   <a href="https://gitquest.dev/player/MandaHarou" target="_blank">
@@ -62,7 +62,7 @@
 ---
 
 ### ✨ Ce qui me définit :
-  <<Passionné, prêt à relever tous les défis, déterminé à devenir un stratège complet.>>
+Ce qui me définit : réflexion, action, 1000 à l’heure. Point final.
 
 ---
 
