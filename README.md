@@ -62,7 +62,9 @@
 ---
 
 ### ✨ Ce qui me définit :
+<p>
 Ce qui me définit : réflexion, action, 1000 à l’heure. Point final.
+</p>
 
 ---
 
