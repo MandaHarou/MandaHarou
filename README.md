@@ -42,7 +42,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MandaHarou&show_icons=true&theme=tokyonight&cache_seconds=1800" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MandaHarou&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MandaHarou&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ## OS & Platforms
