@@ -32,7 +32,7 @@
 ## 🧰 Stack actuelle
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&exclude_repo=ancien_repo1,ancien_repo2" />
+  <img src="https://camo.githubusercontent.com/5281aded121b588d35e30078a8868e67cdf43e08ce7d7392b34bd085b1fd2b95/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d616e64614861726f75266c61796f75743d636f6d70616374267468656d653d746f6b796f6e69676874" />
 </p>
 
 ---
