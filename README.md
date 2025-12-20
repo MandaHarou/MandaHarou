@@ -32,7 +32,8 @@
 ## 🧰 Stack actuelle
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,bash,git,github,postgresql" />
+  <img src="!https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&exclude_repo=ancien_repo1,ancien_repo2
+" />
 </p>
 
 ---
