@@ -59,3 +59,4 @@ Ce qui me définit : réflexion, action, 1000 à l’heure. Point final.
 </p>
 
 ---
+  ![$BTC (Bitcoin) Customizable Cryptocurrency Dashboard with Chart Candlestick Price Movement Volume Bull market bullish Trend](Images/Customizable-Cryptocurrency-Dashboard-with-Chart-Binance.png)
