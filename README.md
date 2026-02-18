@@ -32,7 +32,7 @@
 ## 🧰 Stack actuelle
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,bash,git,github,postgresql,docker,C " />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,bash,git,github,postgresql,docker,Typescript " />
 </p>
 
 ---
@@ -41,7 +41,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white" alt="Arch Linux" />
   <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Debian-D70A53?logo=debian&logoColor=white" alt="Debian" />
 </p>
 
 ## 📬 Me contacter 
