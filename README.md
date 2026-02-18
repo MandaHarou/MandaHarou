@@ -32,7 +32,7 @@
 ## 🧰 Stack actuelle
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,bash,git,github,postgresql,docker,typescript" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,bash,git,postgresql,docker,typescript" />
 </p>
 
 ---
